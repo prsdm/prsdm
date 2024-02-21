@@ -10,7 +10,7 @@
 <a href="https://github.com/prasadmahamulkar/Large-Language-Models/tree/main">End-to-end RAG system using llm </a>
 </p>
 <p align="center">
-<a href="https://huggingface.co/spaces/prsdm/">RAG-APP-Demo </a>
+<a href="https://huggingface.co/spaces/prsdm">RAG-APP-Demo </a>
 </p>
 
 <h3 align="center">Recent Articles</h3>
